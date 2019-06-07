@@ -4,7 +4,7 @@
 
 """
 ************************************************************************
-	Aaron Edwards
+	
 	Date: June 7, 2019
 	Programming Assignment 10: Add Custom Functionality of Your Own Choice 
 
