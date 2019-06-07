@@ -13,9 +13,8 @@
 	value distribution of different stocks in the portfolio via graphing
 	library.
 	
-    In addition, will have to To receive full credit, post this 
-    assignment's code on GitHub and provide information to instructor 
-    necessary to access it.
+    In addition, will post this assignment's code on GitHub and provide 
+    information to instructor necessary to access it.
 
 ************************************************************************
 """
